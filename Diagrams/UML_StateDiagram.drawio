@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="W2M1Jwt1keAbb8Jm0psu">
+    <mxGraphModel dx="1030" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GBKzV8wS3jlgLnoiXUBT-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;Idle&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="360" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GBKzV8wS3jlgLnoiXUBT-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="&lt;div&gt;2&lt;/div&gt;&lt;div&gt;Moving&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="360" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="GBKzV8wS3jlgLnoiXUBT-4" edge="1" parent="1" source="GBKzV8wS3jlgLnoiXUBT-3" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.068;exitY=0.126;exitDx=0;exitDy=0;exitPerimeter=0;" target="GBKzV8wS3jlgLnoiXUBT-2" value="User has snapped blocks&amp;nbsp;&lt;div&gt;together and pressed play&lt;/div&gt;">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="250" />
+            </Array>
+            <mxPoint x="310" y="180" as="sourcePoint" />
+            <mxPoint x="360" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBKzV8wS3jlgLnoiXUBT-5" edge="1" parent="1" source="GBKzV8wS3jlgLnoiXUBT-2" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.964;entryY=0.19;entryDx=0;entryDy=0;entryPerimeter=0;" target="GBKzV8wS3jlgLnoiXUBT-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="250" />
+            </Array>
+            <mxPoint x="480" y="230" as="sourcePoint" />
+            <mxPoint x="540" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBKzV8wS3jlgLnoiXUBT-6" connectable="0" parent="GBKzV8wS3jlgLnoiXUBT-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="The block sequence&lt;div&gt;has concluded&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1105" y="-18" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

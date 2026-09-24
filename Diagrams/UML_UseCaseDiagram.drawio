@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Zc6kujIBMiZDKyldq_Lj">
+    <mxGraphModel dx="1030" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kM2JgLTyHBDixGKwfRir-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="390" width="260" x="320" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-9" edge="1" parent="1" source="kM2JgLTyHBDixGKwfRir-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kM2JgLTyHBDixGKwfRir-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="100" />
+              <mxPoint x="250" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-10" edge="1" parent="1" source="kM2JgLTyHBDixGKwfRir-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kM2JgLTyHBDixGKwfRir-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="100" />
+              <mxPoint x="280" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-12" edge="1" parent="1" source="kM2JgLTyHBDixGKwfRir-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kM2JgLTyHBDixGKwfRir-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="100" />
+              <mxPoint x="280" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="The child playing the game&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="50" x="161" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Move the robot" vertex="1">
+          <mxGeometry height="80" width="220" x="340" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Complete a level; advance to the next level&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BshapeInside%3D1%3B%22%20value%3D%22Move%20the%20robot%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2280%22%20width%3D%22220%22%20x%3D%22340%22%20y%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="340" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Activate the referee" vertex="1">
+          <mxGeometry height="80" width="220" x="340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-18" edge="1" parent="1" source="kM2JgLTyHBDixGKwfRir-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kM2JgLTyHBDixGKwfRir-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-15" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;The database&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="50" x="660" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Saves the player&#39;s game data" vertex="1">
+          <mxGeometry height="80" width="220" x="340" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-20" edge="1" parent="1" source="kM2JgLTyHBDixGKwfRir-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kM2JgLTyHBDixGKwfRir-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM2JgLTyHBDixGKwfRir-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Node.js&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="50" x="660" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

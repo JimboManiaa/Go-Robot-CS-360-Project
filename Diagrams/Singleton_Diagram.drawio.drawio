@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="n99MSbsL0mzj8IaHlcTK">
+    <mxGraphModel dx="1030" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n0HOijW8bajJrVoHFJlr-11" edge="1" parent="1" source="n0HOijW8bajJrVoHFJlr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n0HOijW8bajJrVoHFJlr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n0HOijW8bajJrVoHFJlr-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Robot Class" vertex="1">
+          <mxGeometry height="210" width="210" x="290" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n0HOijW8bajJrVoHFJlr-3" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Singleton Class" vertex="1">
+          <mxGeometry height="180" width="210" x="290" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="n0HOijW8bajJrVoHFJlr-4" parent="n0HOijW8bajJrVoHFJlr-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="+ getLocation()" vertex="1">
+          <mxGeometry height="30" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n0HOijW8bajJrVoHFJlr-5" parent="n0HOijW8bajJrVoHFJlr-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="+ isMoving()" vertex="1">
+          <mxGeometry height="30" width="210" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n0HOijW8bajJrVoHFJlr-6" parent="n0HOijW8bajJrVoHFJlr-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="+ isIdle()" vertex="1">
+          <mxGeometry height="30" width="210" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n0HOijW8bajJrVoHFJlr-7" parent="n0HOijW8bajJrVoHFJlr-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="+ hasWon()" vertex="1">
+          <mxGeometry height="30" width="210" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n0HOijW8bajJrVoHFJlr-8" parent="n0HOijW8bajJrVoHFJlr-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="+ needsHelp()" vertex="1">
+          <mxGeometry height="30" width="210" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="n0HOijW8bajJrVoHFJlr-12" edge="1" parent="1" source="n0HOijW8bajJrVoHFJlr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.401;entryDx=0;entryDy=0;entryPerimeter=0;" target="n0HOijW8bajJrVoHFJlr-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="400" />
+              <mxPoint x="560" y="104.2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
